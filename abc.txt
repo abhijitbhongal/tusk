@@ -1,1 +1,2 @@
-Hi, I'm Abhijit, Engineer by profession.
+Hi, I'm Abhijit. From Rahuri, Ahmednagar. Currently I'm working as a Sofwatre Developer at nCircleTech, Pune. 
+I'm working on C++ CAD Development
